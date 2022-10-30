@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  /* font-family: 'Barlow Semi Condensed', sans-serif; */
+}
+
+.GeeksForGeeks {
+  /* background-image: 
+  url(
+"https://media.geeksforgeeks.org/wp-content/uploads/rk.png"); */
+background-color: #282c34;
+  background-size: cover;
+  background-repeat:no-repeat; 
 }
 
 
