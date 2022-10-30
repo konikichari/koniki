@@ -20,7 +20,7 @@ function ProfileBanner() {
           <p>
             I am a react developer...
             <br />
-            Having <h3> <strong>4+  years</strong></h3> of IT experience.
+            {/* Having <h3> <strong>4+  years</strong></h3> of IT experience. */}
           </p>
          
           <p>

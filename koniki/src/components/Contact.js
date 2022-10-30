@@ -9,8 +9,8 @@ const Contact = () => {
         <br />
         you can reach out to me at
         </p>
-       <div className='d-flex'>
-        <div>
+       <div className='d-flex justify-content-center'>
+        <div className='module'>
         <h4>
             Koniki Pothulurachari
         </h4>
