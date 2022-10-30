@@ -2,6 +2,7 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import { Link } from 'react-scroll';
 import "./ProfileBanner.css"
 
 function ProfileBanner() {
@@ -23,9 +24,12 @@ function ProfileBanner() {
           </p>
          
           <p>
+            <Link to='contact' smooth={true} duration={100}>
             <button className='glow-on-hover'>
               connect
             </button>
+            </Link>
+            
           </p>
           
         </Col>
